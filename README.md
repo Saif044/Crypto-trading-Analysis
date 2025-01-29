@@ -64,3 +64,8 @@ For later analysis, some data columns are preprocessed by using Preprocessing.ip
 
 ## 🖼️ Preview
 ![Dashboard Preview](./Dashboard.gif)
+
+## Future Improvements
+- Automate the data pipeline for real-time updates  
+- Add predictive models for price forecasting  
+- Expand analysis to include more cryptocurrencies 
