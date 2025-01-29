@@ -1,0 +1,11 @@
+,Symbol,Image URLS,Name,Price,Change,Change %,Market Cap,Volume,Volume In Currency (24hr),Total Volume All Currencies (24hr),Circulating Supply,52 Wk Change %
+0,BTC-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/1.png,Bitcoin,"102,880.30","+3,494.78",+3.52%,2039000000000.0002,51401000000.0,51401000000.0,51401000000.0,19816000.0,139.06%
+1,ETH-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png,Ethereum,"3,164.39",+90.21,+2.93%,381347000000.0,20954000000.0,20954000000.0,20954000000.0,120512000.0,38.03%
+2,XRP-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/52.png,XRP,3.1692,+0.2663,+9.17%,182676000000.0,9615000000.0,9615000000.0,9615000000.0,57641000000.0,492.57%
+3,USDT-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/825.png,Tether USDt,0.999900,+0.000275,+0.03%,139442000000.0,95082000000.0,95082000000.0,95082000000.0,139457000000.0,-0.04%
+4,SOL-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png,Solana,233.80,+7.32,+3.23%,113784000000.0,5380000000.0,5380000000.0,5380000000.0,486668000.0,137.39%
+5,BNB-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png,BNB,673.00,+13.42,+2.04%,95889000000.0,1716000000.0,1716000000.0,1716000000.0,142481000.0,116.86%
+6,USDC-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png,USD Coin,1.000000,+0.000024,+0.00%,52441000000.0,8605000000.0,8605000000.0,8605000000.0,52442000000.0,-0.01%
+7,DOGE-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/74.png,Dogecoin,0.327600,+0.007720,+2.41%,48426000000.0,2004000000.0,2004000000.0,2004000000.0,147813000000.0,321.87%
+8,ADA-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/2010.png,Cardano,0.943800,+0.042114,+4.67%,33204000000.0,781051000.0,781051000.0,781051000.0,35180000000.0,85.71%
+9,STETH-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/8085.png,Lido Staked ETH,"3,162.48",+89.21,+2.90%,30071000000.0,101706000.0,101706000.0,101706000.0,9509000.0,37.25%
