@@ -37,7 +37,7 @@ This project involves **web scraping** cryptocurrency data from [Yahoo Finance](
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/cryptocurrency-trend-analysis.git](https://github.com/Saif044/Crypto-trading-Analysis.git
+git clone https://github.com/Saif044/Crypto-trading-Analysis.git
 ```
 ### 2. Install Dependencies
 ```bash
